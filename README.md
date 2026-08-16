@@ -571,7 +571,7 @@ Plus de 15 ans d'expérience en MENA et en Europe. 6 systèmes en production. À
 ## Contact
 
 > **Construisons quelque chose de *remarquable*.**
-
+ 
 Disponible pour des engagements à distance immédiats — retainer long terme, projets à portée fixe, ou rôles de lead fractionnel avec des startups européennes.
 
 - 📧 **Email** : alae.saf@gmail.com
