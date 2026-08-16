@@ -15,7 +15,7 @@
 > **Senior Multi-Stack Engineer** — Remote · CET (GMT+1)
 > Building scalable, impactful digital businesses across MENA & Europe for over 15 years.
 
-[![Status](https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=flat-square)](mailto:alae.saff@gmail.com)
+[![Status](https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=flat-square)](mailto:alae.saf@gmail.com)
 [![Experience](https://img.shields.io/badge/Experience-15%2B%20years-blue?style=flat-square)](#english)
 [![Projects](https://img.shields.io/badge/Production%20Systems-6-orange?style=flat-square)](#english)
 [![Users](https://img.shields.io/badge/Monthly%20Users-1M%2B-9cf?style=flat-square)](#english)
@@ -179,7 +179,7 @@ I ship large-scale platforms that serve **millions of users**. From multi-tenant
 
 Available for immediate remote engagements — long-term retainer, fixed-scope projects, or fractional lead roles with European startups.
 
-- 📧 **Email** : alae.saff@gmail.com
+- 📧 **Email** : alae.saf@gmail.com
 - 📱 **Phone** : +212 661-44-42-35
 - 💼 **GitHub** : https://github.com/AlaeEddine
 - 🔗 **LinkedIn** : https://linkedin.com/in/alae-eddine-s
@@ -193,7 +193,7 @@ Available for immediate remote engagements — long-term retainer, fixed-scope p
 
 © 2026 Alae-Eddine Saffih. All rights reserved.
 
-The source code of this portfolio is provided for informational purposes. For any reuse, please contact alae.saff@gmail.com.
+The source code of this portfolio is provided for informational purposes. For any reuse, please contact alae.saf@gmail.com.
 
 ---
 
@@ -212,11 +212,12 @@ GitHub: https://www.github.com/AlaeEddine  ·  LinkedIn: https://www.linkedin.co
 > **مهندس أول متعدد التقنيات** — العمل عن بُعد · توقيت وسط أوروبا (GMT+1)
 > أبني أعمالًا رقمية قابلة للتطوير وذات أثر في منطقة الشرق الأوسط وشمال أفريقيا وأوروبا منذ أكثر من 15 عامًا.
 
-[![الحالة](https://img.shields.io/badge/متاح%20لـ-العمل%20عن%20بعد-success?style=flat-square)](mailto:alae.saff@gmail.com)
-[![الخبرة](https://img.shields.io/badge/الخبرة-15%2B%20عامًا-blue?style=flat-square)](#arabic)
-[![المشاريع](https://img.shields.io/badge/أنظمة%20في%20الإنتاج-6-orange?style=flat-square)](#arabic)
-[![المستخدمون](https://img.shields.io/badge/المستخدمون%20شهريًا-1M%2B-9cf?style=flat-square)](#arabic)
-[![وقت التشغيل](https://img.shields.io/badge/SLA%20وقت%20التشغيل-99.94%25-brightgreen?style=flat-square)](#arabic)
+[![Status](https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=flat-square)](mailto:alae.saf@gmail.com)
+[![Experience](https://img.shields.io/badge/Experience-15%2B%20years-blue?style=flat-square)](#arabic)
+[![Projects](https://img.shields.io/badge/Production%20Systems-6-orange?style=flat-square)](#arabic)
+[![Users](https://img.shields.io/badge/Monthly%20Users-1M%2B-9cf?style=flat-square)](#english)
+[![Uptime](https://img.shields.io/badge/Uptime%20SLA-99.94%25-brightgreen?style=flat-square)](#arabic)
+
 
 15+ عامًا · 6 أنظمة في الإنتاج · +1M مستخدم شهريًا · 99.94% وقت تشغيل · 50M سجل/يوم
 
@@ -376,7 +377,7 @@ GitHub: https://www.github.com/AlaeEddine  ·  LinkedIn: https://www.linkedin.co
 
 متاح للعمل عن بُعد فورًا — عقد طويل الأمد، مشاريع محددة النطاق، أو أدوار قيادية جزئية مع الشركات الناشئة الأوروبية.
 
-- 📧 **البريد الإلكتروني** : alae.saff@gmail.com
+- 📧 **البريد الإلكتروني** : alae.saf@gmail.com
 - 📱 **الهاتف** : +212 661-44-42-35
 - 💼 **GitHub** : https://github.com/AlaeEddine
 - 🔗 **LinkedIn** : https://linkedin.com/in/alae-eddine-s
@@ -409,7 +410,7 @@ GitHub: https://www.github.com/AlaeEddine  ·  LinkedIn: https://www.linkedin.co
 > **Ingénieur Multi-Stack Senior** — Remote · CET (GMT+1)
 > Je construis des plateformes à grande échelle et à fort impact en MENA et en Europe depuis plus de 15 ans.
 
-[![Status](https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=flat-square)](mailto:alae.saff@gmail.com)
+[![Status](https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=flat-square)](mailto:alae.saf@gmail.com)
 [![Experience](https://img.shields.io/badge/Experience-15%2B%20years-blue?style=flat-square)](#francais)
 [![Projects](https://img.shields.io/badge/Production%20Systems-6-orange?style=flat-square)](#francais)
 [![Users](https://img.shields.io/badge/Monthly%20Users-1M%2B-9cf?style=flat-square)](#francais)
@@ -573,7 +574,7 @@ Plus de 15 ans d'expérience en MENA et en Europe. 6 systèmes en production. À
 
 Disponible pour des engagements à distance immédiats — retainer long terme, projets à portée fixe, ou rôles de lead fractionnel avec des startups européennes.
 
-- 📧 **Email** : alae.saff@gmail.com
+- 📧 **Email** : alae.saf@gmail.com
 - 📱 **Téléphone** : +212 661-44-42-35
 - 💼 **GitHub** : https://github.com/AlaeEddine
 - 🔗 **LinkedIn** : https://linkedin.com/in/alae-eddine-s
@@ -587,7 +588,7 @@ Disponible pour des engagements à distance immédiats — retainer long terme, 
 
 © 2026 Alae-Eddine Saffih. Tous droits réservés.
 
-Le code source de ce portfolio est fourni à titre indicatif. Pour toute réutilisation, merci de contacter alae.saff@gmail.com.
+Le code source de ce portfolio est fourni à titre indicatif. Pour toute réutilisation, merci de contacter alae.saf@gmail.com.
 
 ---
 
