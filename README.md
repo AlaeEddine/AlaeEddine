@@ -215,7 +215,7 @@ GitHub: https://www.github.com/AlaeEddine  ·  LinkedIn: https://www.linkedin.co
 [![Status](https://img.shields.io/badge/Available%20for-Remote%20Work-success?style=flat-square)](mailto:alae.saf@gmail.com)
 [![Experience](https://img.shields.io/badge/Experience-15%2B%20years-blue?style=flat-square)](#arabic)
 [![Projects](https://img.shields.io/badge/Production%20Systems-6-orange?style=flat-square)](#arabic)
-[![Users](https://img.shields.io/badge/Monthly%20Users-1M%2B-9cf?style=flat-square)](#english)
+[![Users](https://img.shields.io/badge/Monthly%20Users-1M%2B-9cf?style=flat-square)](#arabic)
 [![Uptime](https://img.shields.io/badge/Uptime%20SLA-99.94%25-brightgreen?style=flat-square)](#arabic)
 
 
